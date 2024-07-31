@@ -1,0 +1,14 @@
+a=10
+b=20
+sum=a+b
+diff=a-b
+mult=a*b
+div=a/b
+mod=a%b
+square=a**b
+print(sum)
+print(diff)
+print(mult)
+print(div)
+print(mod)
+print(square)
