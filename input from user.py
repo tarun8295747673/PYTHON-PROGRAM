@@ -1,0 +1,6 @@
+name = input("enter your name :")
+age = int(input("enter your age :"))
+marks = float(input("enter your marks :"))
+print(type(name),name)
+print(type(age),age)
+print(type(marks),marks)
